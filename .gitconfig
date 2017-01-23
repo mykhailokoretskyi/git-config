@@ -1,0 +1,13 @@
+[user]
+	email = radio.mkor@gmail.com
+	name = Mykhailo Koretskyi
+[push]
+	default = simple
+
+[alias]
+	lo = log --graph --decorate=full --oneline
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+
